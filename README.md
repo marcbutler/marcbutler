@@ -1,4 +1,4 @@
-## Hi there 👋
+Accustomed to working both sides of the system call boundary.
 
 <!--
 **marcbutler/marcbutler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
